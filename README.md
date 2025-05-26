@@ -48,5 +48,8 @@ A backend system built with **Node.js**, **Express**, and **MongoDB**, implement
 1. **Clone the repo**
    ```bash
    git clone https://github.com/sumitkumar210711/NodeJs-Users-Project.git
-   cd your-repo-name
+
+2. **Run the Project**
+   ```bash
+   node backendServer.js
 
